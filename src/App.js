@@ -6,7 +6,8 @@ import MyFooter from "./components/MyFooter";
 function App() {
   return (
     <div>
-      <MyNavbar navTitle="romance" />
+      <MyNavbar navTitle="Ezi Bookstore" />
+      <MyFooter/>
     </div>
   );
 }
