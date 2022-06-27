@@ -1,6 +1,5 @@
 import { Navbar, Nav } from 'react-bootstrap'
 
-
 const MyNavbar = (props) => {
  
   return (
