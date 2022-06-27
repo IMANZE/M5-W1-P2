@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Exercise description:
+
+Use the create-react-app boilerplate to create your new React application.
+Install and set up bootstrap@4.6.1 + react-bootstrap@1.6.4 in your app.
+Create a MyNav component which will render a bootstrap navigation bar with the following links: Home, About and Browse.
+Note: we don't know how to perform navigation yet, so for now just put "#" as the href property for each one on them.
+Create a MyFooter component which will render a footer for the page.
+Create a Welcome component with a Jumbotron and a subtitle for your shop.
+Create a Latest Release component. This component should read from one of the provided .json files and print out the cover of the books.
