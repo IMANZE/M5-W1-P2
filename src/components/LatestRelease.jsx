@@ -1,6 +1,6 @@
 import { Container, Row, Col, Carousel } from "react-bootstrap";
 import romance from "../data/romance.json";
-const LatestRelease = (props) => {
+const LatestRelease = () => {
   return (
     <Container>
       <Row className="justify-content-center mt-3 mb-3">
