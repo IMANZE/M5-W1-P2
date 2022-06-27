@@ -9,7 +9,7 @@ function App() {
     <div>
       <MyNavbar navTitle="Ezi Bookstore" />
      
-      <Welcome subtitle="Welcome to the Ezi BOOK Store" bookSection="Romance Book Section"/>
+      <Welcome subtitle="Welcome to the Ezi BooK Store" bookSection="Romance Book Section"/>
       <MyFooter/>
     </div>
   );
